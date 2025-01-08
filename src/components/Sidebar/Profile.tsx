@@ -10,11 +10,11 @@ export function Profile() {
 				alt=""
 			/>
 
-			<div className="truncate flex flex-1 flex-col">
-				<span className="text-sm font-semibold text-zinc-700">
+			<div className="truncate flex flex-1 flex-col ">
+				<span className="text-sm font-semibold text-zinc-700 dark:text-zinc-100">
 					Vinicius Assis
 				</span>
-				<span className="truncate text-sm text-zinc-500">
+				<span className="truncate text-sm text-zinc-500 dark:text-zinc-400">
 					vinicius@cripto.io
 				</span>
 			</div>
